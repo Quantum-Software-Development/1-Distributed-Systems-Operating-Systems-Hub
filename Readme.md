@@ -19,8 +19,7 @@
 - [**Program:**]() Humanistic AI and Data Science (Ciência de Dados e Inteligência Artificial, 5th semester)
 - [**School:**]() Faculdade de Estudos Interdisciplinares – PUC-SP
 - [**Semester / Year:**]() 1º/2026
-- [**Workload:** 72 hours (72 credits-hours
-- **Professor:** [✨ Carlos Eduardo de Barros Paes]() 
+- **Professor:** [✨ Carlos Eduardo de Barros Paes](https://www.linkedin.com/in/carlos-eduardo-de-barros-paes-ph-d-7b137a4/) 
 
 
 <br><br>
