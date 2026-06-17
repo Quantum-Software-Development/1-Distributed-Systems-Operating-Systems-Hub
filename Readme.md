@@ -8,7 +8,7 @@
 
 
 <!-- ========= START REPO TITLE ========= -->
-# 1- 🕸️ [Distributed Systems – Specialized Consulting to Support the Integrated Project]() - [Main Hub Repository]()
+# 1- 🕸️ [Distributed Systems – Specialized Consulting to Support the Integrated Project]() [[Main Hub Repository]()
 
 <br><br>
 <!-- ========= END REPO TITLE ========= -->
